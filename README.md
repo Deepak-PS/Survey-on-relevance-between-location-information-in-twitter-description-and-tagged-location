@@ -1,5 +1,5 @@
 # A Survey on the relevance between the location-information in twitter description and tagged location
-A project that was developed to find the relevence between the location information in the description of the tweets and the tagged location and classify them as Perfect Match, Partial Match, Regional Match and No Match.
+A project that was developed to find the relevence between the location information in the description of the tweets and the tagged location and classify them as Perfect Match, Partial Match, Regional Match and No Match
 
 | Twitter Description  | Tagged Location | Match |
 | ------------- | ------------- | ------------- |

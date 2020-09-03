@@ -23,4 +23,4 @@ No Match - If the location in the twitter description and the tagged location ar
 * Pycharm or suitable IDE
 
 # Data Set
-Twitter data set of the months of October 2016 and November 2016.
+Twitter data set of the months of October 2016 and November 2016
